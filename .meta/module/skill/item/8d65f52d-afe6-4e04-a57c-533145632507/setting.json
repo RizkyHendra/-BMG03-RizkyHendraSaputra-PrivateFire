@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_8d65f52d-afe6-4e04-a57c-533145632507"
+    },
+    "skill": {
+      "base": {
+        "__OBJ_TYPE": "Skill_Missile",
+        "missile": [
+          {
+            "missileCfg": "myplugin/b80fea47-f1d8-41b1-9f6b-504d795ed72c"
+          }
+        ]
+      },
+      "type": "Missile"
+    },
+    "skillReleaseWay": {
+      "icon": {
+        "asset": "asset/Texture/Skill/common/icon_开镜_act.png"
+      },
+      "iconPos": {
+        "area_number": 8
+      },
+      "isClickIcon": true
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "32fccdc407fbf396d83b16eef23d14b1",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

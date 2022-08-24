@@ -1,0 +1,46 @@
+{
+  "data": {
+    "boundingVolume": {
+      "position": {
+        "y": 1
+      },
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "boundingVolumeMissileCfg": {
+      "position": {
+        "y": 1
+      },
+      "size": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    "hitCount": {
+      "hitEntityCount": 1,
+      "isValid": true
+    },
+    "hitEntitySkill": "myplugin/71ce1f70-7eb0-4cba-8467-4c2e32376856",
+    "missileModel": {
+      "modelMesh": {
+        "asset": "asset/Mesh/Blue And Black Technology Pillar/g2047_2_component_02.mesh"
+      },
+      "type": "mesh"
+    },
+    "moveSpeed": 60,
+    "name": {
+      "value": "missile_b80fea47-f1d8-41b1-9f6b-504d795ed72c"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1351e582d5389a76d225a9860bbe2234",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,307 @@
+{
+  "data": {
+    "box": {
+      "base": {
+        "__OBJ_TYPE": "SkyBoxStatic"
+      }
+    },
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_VoxelTerrain",
+        "id": "26644713697705985",
+        "uniqueKey": "map001"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8747155157761212417",
+        "ID": 1,
+        "lightType": "GlobalLight",
+        "name": "EnvironmentLight"
+      },
+      {
+        "__OBJ_TYPE": "Instance_Light",
+        "id": "8747155157916073985",
+        "ID": 2,
+        "lightType": "DirectionalLight",
+        "name": "DirectionalLight",
+        "position": {
+          "y": 5
+        },
+        "rotation": {
+          "y": -90
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "9f3dd744-7307-4347-8fbd-552a379b6146",
+        "canEditPhy": true,
+        "id": "8747155937427013633",
+        "massCenter": {
+          "x": -9.7525014877319,
+          "z": 12.067997932434
+        },
+        "material": {
+          "color": {
+            "b": 4,
+            "g": 0
+          },
+          "offset": {
+            "x": 18,
+            "y": 12.01
+          },
+          "texture": "part_shiban.tga"
+        },
+        "position": {
+          "x": -9.7525014877319,
+          "z": 12.067997932434
+        },
+        "restitution": 1,
+        "scale": {
+          "x": 13.0829,
+          "y": 0.999991,
+          "z": 13.0829
+        },
+        "size": {
+          "x": 13.082929611206,
+          "y": 0.99999099969864,
+          "z": 13.082929611206
+        },
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "b8c113a5-b2d3-4c7b-9ab9-723370cb1f53",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8750118046984241153",
+        "massCenter": {
+          "x": 3.8066673278809,
+          "y": 1.1881173849106,
+          "z": 10.843519210815
+        },
+        "position": {
+          "x": 3.8066673278809,
+          "y": 1.1881173849106,
+          "z": 10.843519210815
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 12.485,
+          "y": 0.623987,
+          "z": 13.7219
+        },
+        "size": {
+          "x": 12.48495388031,
+          "y": 0.6239869594574,
+          "z": 13.721855163574
+        },
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "c6980562-9502-48f0-90e6-758f7c190ef5",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8750121722057703425",
+        "massCenter": {
+          "x": 36.538299560547,
+          "y": 4.0001392364502,
+          "z": 11.651379585266
+        },
+        "position": {
+          "x": 36.538299560547,
+          "y": 4.0001392364502,
+          "z": 11.651379585266
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 11.1369,
+          "y": 0.999989,
+          "z": 21.5577
+        },
+        "size": {
+          "x": 11.136901855469,
+          "y": 0.99998885393143,
+          "z": 21.557668685913
+        },
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "c232f696-c270-41da-853f-52c07b21e4a9",
+        "cameraCollideEnable": false,
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8750166858830348289",
+        "massCenter": {
+          "x": 39.095016479492,
+          "y": 6.3611402511597,
+          "z": 12.36119556427
+        },
+        "material": {
+          "color": {
+            "b": 8,
+            "r": 0
+          }
+        },
+        "position": {
+          "x": 39.095016479492,
+          "y": 6.3611402511597,
+          "z": 12.36119556427
+        },
+        "restitution": 0.3,
+        "scale": {
+          "y": 3.148,
+          "z": 0.999999
+        },
+        "size": {
+          "x": 0.99999952316284,
+          "y": 3.1479983329773,
+          "z": 0.99999904632568
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/f4e1f539-8e91-4a8e-9a27-41bcc095713a",
+        "id": "8750210586037878785",
+        "name": "Ai",
+        "position": {
+          "x": 26.489910125732,
+          "y": 3.5001392364502,
+          "z": 11.1559715271
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "047ed13e-6eaf-4616-b4d3-98336a737d36",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_Torque",
+            "id": "8750215425806221313",
+            "torque": {
+              "x": 150
+            }
+          }
+        ],
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8750215137657241601",
+        "massCenter": {
+          "x": 15.889471054077,
+          "y": 2.0001945495605,
+          "z": 11.287402153015
+        },
+        "position": {
+          "x": 15.889471054077,
+          "y": 2.0001945495605,
+          "z": 11.287402153015
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 9.46495,
+          "y": 0.999992,
+          "z": 13.9528
+        },
+        "size": {
+          "x": 9.4649543762207,
+          "y": 0.99999207258224,
+          "z": 13.952833175659
+        },
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "e46ba3cd-8ffb-4941-8d86-290b588f072d",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8750216163280781313",
+        "massCenter": {
+          "x": 26.011957168579,
+          "y": 3.0011126995087,
+          "z": 11.772058486938
+        },
+        "position": {
+          "x": 26.011957168579,
+          "y": 3.0011126995087,
+          "z": 11.772058486938
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 9.41597,
+          "y": 0.999994,
+          "z": 13.0429
+        },
+        "size": {
+          "x": 9.4159727096558,
+          "y": 0.99999421834946,
+          "z": 13.042875289917
+        },
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "btsKey": "587c2685-26c7-4763-ae95-465a83d23e47",
+        "density": 2.2,
+        "friction": 0.37,
+        "id": "8750228266767466497",
+        "massCenter": {
+          "x": 29.028953552246,
+          "y": -14.24488735199,
+          "z": 10.06934928894
+        },
+        "material": {
+          "alpha": 0
+        },
+        "name": "Jump fall",
+        "position": {
+          "x": 29.028953552246,
+          "y": -14.24488735199,
+          "z": 10.06934928894
+        },
+        "restitution": 0.3,
+        "scale": {
+          "x": 115.259,
+          "y": 0.999988,
+          "z": 65.6971
+        },
+        "size": {
+          "x": 115.25904846191,
+          "y": 0.9999885559082,
+          "z": 65.69709777832
+        },
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Entity",
+        "config": "myplugin/player1",
+        "id": "8771018765107003393",
+        "name": "Player",
+        "position": {
+          "x": -7.1224122047424,
+          "y": 0.49999761581421,
+          "z": 11.018074035645
+        },
+        "size": {
+          "x": 0.99999994039536,
+          "y": 0.99999994039536,
+          "z": 0.99999988079071
+        }
+      }
+    ],
+    "name": {
+      "value": "map_map001"
+    },
+    "touch_pos": {
+      "up": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "DataSet": [],
+      "setting.json": "c00c79af5675121f3c1c4716fe85d022"
+    },
+    "VERSION": "0.22"
+  }
+}

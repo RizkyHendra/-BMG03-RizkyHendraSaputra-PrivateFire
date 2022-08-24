@@ -1,0 +1,17 @@
+{
+  "data": {
+    "name": {
+      "value": "skill_system_71ce1f70-7eb0-4cba-8467-4c2e32376856"
+    },
+    "skillIconPos": {
+      "area_number": 8
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ce4593df84032512ae32435606b72c3c",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

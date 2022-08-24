@@ -1,0 +1,25 @@
+{
+  "data": {
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "canClick": true,
+    "collision": true,
+    "damage": 20,
+    "enableAI": true,
+    "maxHp": 100,
+    "name": {
+      "value": "entity_f4e1f539-8e91-4a8e-9a27-41bcc095713a"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a023da36ce1dc6c51b57831d7911f242",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "castEffect": {
+      "pos": {
+        "x": 7
+      }
+    },
+    "jumpSpeed": 100,
+    "moveAcc": 100,
+    "moveFactor": 100,
+    "moveSpeed": 100,
+    "name": {
+      "value": "buff_5b886a88-12cc-4521-abb0-a4305f1f8670"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "c3ccd03a35728d68a3155ffea4b41851"
+    },
+    "VERSION": "0.22"
+  }
+}

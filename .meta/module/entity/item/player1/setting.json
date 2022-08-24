@@ -1,0 +1,96 @@
+{
+  "data": {
+    "actorModel": {
+      "actorName": {
+        "asset": ""
+      },
+      "girlactor": {
+        "asset": ""
+      }
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_home": {
+      "homeSize": 5
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "boundingVolume": {
+      "memory": {
+        "Capsule": "1.700000-0.430000"
+      },
+      "radius_c": 0.75,
+      "size": {
+        "x": 1
+      }
+    },
+    "boundingVolumeEntityCfg": {
+      "memory": {
+        "Capsule": "1.700000-0.430000"
+      },
+      "radius_c": 0.75,
+      "size": {
+        "x": 1
+      }
+    },
+    "canRevive": true,
+    "collision": true,
+    "damage": 20,
+    "deadAction": {
+      "deathHideTime": {
+        "value": 60
+      },
+      "playDeadAction": "die_front"
+    },
+    "equip": [
+      "1",
+      "2"
+    ],
+    "hideHp": false,
+    "isPlayer": true,
+    "name": {
+      "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
+    },
+    "reviveTime": {
+      "value": 40
+    },
+    "skill": [
+      "myplugin/8d65f52d-afe6-4e04-a57c-533145632507"
+    ],
+    "triggers": {
+      "list": [
+        {
+          "custom_trigger_data": {
+            "name": {
+              "value": "dd489c9a-d130-4f05-a609-33fc58b859ac"
+            },
+            "type": "Trigger_ENTITY_TOUCH_ALL"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  []
+                ]
+              }
+            ],
+            "id": {
+              "value": "dcec68eb-041b-4042-a590-884669c60ece"
+            }
+          },
+          "type": "Trigger_ENTITY_TOUCH_ALL"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "f762b0ec512a6fc9144a85113ce197d4",
+      "triggers.bts": "e73378ed143a168585fa021460c1d8ca"
+    },
+    "VERSION": "0.22"
+  }
+}
