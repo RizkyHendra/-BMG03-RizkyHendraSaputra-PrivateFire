@@ -16,7 +16,7 @@
       }
     },
     "nowTime": {
-      "h": 7,
+      "h": 16,
       "m": 40
     },
     "player_range": {
@@ -34,11 +34,11 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "65e83b57287c76d3759828db78ece9b7",
+      "setting.json": "74658427b6911d1bbee08040cfafee78",
       "shop.csv": "393e9a440b900b5690986ec2b0e57be5",
       "triggers.bts": "",
       "triggers_client.bts": ""
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

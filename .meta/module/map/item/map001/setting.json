@@ -34,11 +34,10 @@
       {
         "__OBJ_TYPE": "Instance_Part",
         "btsKey": "9f3dd744-7307-4347-8fbd-552a379b6146",
-        "canEditPhy": true,
         "id": "8747155937427013633",
         "massCenter": {
-          "x": -9.7525014877319,
-          "z": 12.067997932434
+          "x": -9.75250148773193,
+          "z": 11.9374971389771
         },
         "material": {
           "color": {
@@ -52,77 +51,19 @@
           "texture": "part_shiban.tga"
         },
         "position": {
-          "x": -9.7525014877319,
-          "z": 12.067997932434
+          "x": -9.75250148773193,
+          "z": 11.9374971389771
         },
         "restitution": 1,
         "scale": {
           "x": 13.0829,
-          "y": 0.999991,
-          "z": 13.0829
+          "y": 0.99999,
+          "z": 13.3619
         },
         "size": {
-          "x": 13.082929611206,
-          "y": 0.99999099969864,
-          "z": 13.082929611206
-        },
-        "useGravity": false
-      },
-      {
-        "__OBJ_TYPE": "Instance_Part",
-        "btsKey": "b8c113a5-b2d3-4c7b-9ab9-723370cb1f53",
-        "density": 2.2,
-        "friction": 0.37,
-        "id": "8750118046984241153",
-        "massCenter": {
-          "x": 3.8066673278809,
-          "y": 1.1881173849106,
-          "z": 10.843519210815
-        },
-        "position": {
-          "x": 3.8066673278809,
-          "y": 1.1881173849106,
-          "z": 10.843519210815
-        },
-        "restitution": 0.3,
-        "scale": {
-          "x": 12.485,
-          "y": 0.623987,
-          "z": 13.7219
-        },
-        "size": {
-          "x": 12.48495388031,
-          "y": 0.6239869594574,
-          "z": 13.721855163574
-        },
-        "useGravity": false
-      },
-      {
-        "__OBJ_TYPE": "Instance_Part",
-        "btsKey": "c6980562-9502-48f0-90e6-758f7c190ef5",
-        "density": 2.2,
-        "friction": 0.37,
-        "id": "8750121722057703425",
-        "massCenter": {
-          "x": 36.538299560547,
-          "y": 4.0001392364502,
-          "z": 11.651379585266
-        },
-        "position": {
-          "x": 36.538299560547,
-          "y": 4.0001392364502,
-          "z": 11.651379585266
-        },
-        "restitution": 0.3,
-        "scale": {
-          "x": 11.1369,
-          "y": 0.999989,
-          "z": 21.5577
-        },
-        "size": {
-          "x": 11.136901855469,
-          "y": 0.99998885393143,
-          "z": 21.557668685913
+          "x": 13.0828914642334,
+          "y": 0.999990463256836,
+          "z": 13.3618831634521
         },
         "useGravity": false
       },
@@ -133,11 +74,6 @@
         "density": 2.2,
         "friction": 0.37,
         "id": "8750166858830348289",
-        "massCenter": {
-          "x": 39.095016479492,
-          "y": 6.3611402511597,
-          "z": 12.36119556427
-        },
         "material": {
           "color": {
             "b": 8,
@@ -155,9 +91,8 @@
           "z": 0.999999
         },
         "size": {
-          "x": 0.99999952316284,
-          "y": 3.1479983329773,
-          "z": 0.99999904632568
+          "y": 3.148,
+          "z": 0.999999
         },
         "useAnchor": true,
         "useGravity": false
@@ -175,101 +110,34 @@
       },
       {
         "__OBJ_TYPE": "Instance_Part",
-        "btsKey": "047ed13e-6eaf-4616-b4d3-98336a737d36",
-        "children": [
-          {
-            "__OBJ_TYPE": "Instance_Torque",
-            "id": "8750215425806221313",
-            "torque": {
-              "x": 150
-            }
-          }
-        ],
-        "density": 2.2,
-        "friction": 0.37,
-        "id": "8750215137657241601",
-        "massCenter": {
-          "x": 15.889471054077,
-          "y": 2.0001945495605,
-          "z": 11.287402153015
-        },
-        "position": {
-          "x": 15.889471054077,
-          "y": 2.0001945495605,
-          "z": 11.287402153015
-        },
-        "restitution": 0.3,
-        "scale": {
-          "x": 9.46495,
-          "y": 0.999992,
-          "z": 13.9528
-        },
-        "size": {
-          "x": 9.4649543762207,
-          "y": 0.99999207258224,
-          "z": 13.952833175659
-        },
-        "useGravity": false
-      },
-      {
-        "__OBJ_TYPE": "Instance_Part",
-        "btsKey": "e46ba3cd-8ffb-4941-8d86-290b588f072d",
-        "density": 2.2,
-        "friction": 0.37,
-        "id": "8750216163280781313",
-        "massCenter": {
-          "x": 26.011957168579,
-          "y": 3.0011126995087,
-          "z": 11.772058486938
-        },
-        "position": {
-          "x": 26.011957168579,
-          "y": 3.0011126995087,
-          "z": 11.772058486938
-        },
-        "restitution": 0.3,
-        "scale": {
-          "x": 9.41597,
-          "y": 0.999994,
-          "z": 13.0429
-        },
-        "size": {
-          "x": 9.4159727096558,
-          "y": 0.99999421834946,
-          "z": 13.042875289917
-        },
-        "useGravity": false
-      },
-      {
-        "__OBJ_TYPE": "Instance_Part",
         "btsKey": "587c2685-26c7-4763-ae95-465a83d23e47",
         "density": 2.2,
         "friction": 0.37,
         "id": "8750228266767466497",
         "massCenter": {
-          "x": 29.028953552246,
-          "y": -14.24488735199,
-          "z": 10.06934928894
+          "x": 29.4649543762207,
+          "y": -14.2448873519897,
+          "z": 10.0693492889404
         },
         "material": {
           "alpha": 0
         },
         "name": "Jump fall",
         "position": {
-          "x": 29.028953552246,
-          "y": -14.24488735199,
-          "z": 10.06934928894
+          "x": 29.4649543762207,
+          "y": -14.2448873519897,
+          "z": 10.0693492889404
         },
         "restitution": 0.3,
         "scale": {
-          "x": 115.259,
-          "y": 0.999988,
-          "z": 65.6971
+          "x": 116.131,
+          "y": 0.999987,
+          "z": 65.697
         },
         "size": {
-          "x": 115.25904846191,
-          "y": 0.9999885559082,
-          "z": 65.69709777832
+          "x": 116.130889892578,
+          "y": 0.999987065792084,
+          "z": 65.6969757080078
         },
         "useGravity": false
       },
@@ -282,12 +150,1109 @@
           "x": -7.1224122047424,
           "y": 0.49999761581421,
           "z": 11.018074035645
+        }
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "0cddc570-67ad-4d0e-b29a-cd4723369a0f",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782666167121854465",
+        "massCenter": {
+          "x": 16.2904510498047,
+          "y": -0.0277609061449766,
+          "z": 11.5516510009766
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 16.2904510498047,
+          "y": -0.0277609061449766,
+          "z": 11.5516510009766
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 39.0154,
+          "y": 0.999981,
+          "z": 14.7475
         },
         "size": {
-          "x": 0.99999994039536,
-          "y": 0.99999994039536,
-          "z": 0.99999988079071
-        }
+          "x": 39.0153846740723,
+          "y": 0.999980986118317,
+          "z": 14.7475204467773
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "be50d6dd-db18-47e0-8188-f20efa80f4b3",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782667736855199745",
+        "massCenter": {
+          "x": 10.0351257324219,
+          "y": 3.35524392127991,
+          "z": 4.80659627914429
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 10.0351257324219,
+          "y": 3.35524392127991,
+          "z": 4.80659627914429
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 51.2729,
+          "y": 5.77892,
+          "z": 0.999958
+        },
+        "size": {
+          "x": 51.2729377746582,
+          "y": 5.77892112731934,
+          "z": 0.999957799911499
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "18ecf048-3a4a-46f1-adb1-f63656d0f51e",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782668821160509441",
+        "massCenter": {
+          "x": 13.739574432373,
+          "y": 3.36373710632324,
+          "z": 18.4165515899658
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 13.739574432373,
+          "y": 3.36373710632324,
+          "z": 18.4165515899658
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 59.9526,
+          "y": 5.77889,
+          "z": 0.99995
+        },
+        "size": {
+          "x": 59.9526290893555,
+          "y": 5.77889490127563,
+          "z": 0.999950289726257
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "494a4b06-c8f6-4255-ba8d-f7691ace77dc",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782674131152977921",
+        "massCenter": {
+          "x": 39.6652984619141,
+          "y": 0.172943100333214,
+          "z": -1.43384826183319
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 39.6652984619141,
+          "y": 0.172943100333214,
+          "z": -1.43384826183319
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 8.04877,
+          "y": 0.999983,
+          "z": 40.6312
+        },
+        "size": {
+          "x": 8.04877376556396,
+          "y": 0.99998265504837,
+          "z": 40.6312141418457
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "24abf1c8-39d7-44b9-adf5-7e8360849a43",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782675677594451969",
+        "massCenter": {
+          "x": 57.4152488708496,
+          "y": 0.168616905808449,
+          "z": -17.7912120819092
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 57.4152488708496,
+          "y": 0.168616905808449,
+          "z": -17.7912120819092
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 33.7467,
+          "y": 0.999987,
+          "z": 7.87883
+        },
+        "size": {
+          "x": 33.7467041015625,
+          "y": 0.999987244606018,
+          "z": 7.87882947921753
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2af5489b-c202-4290-87e6-e2c81210ab11",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782678728365801473",
+        "massCenter": {
+          "x": 71.1222076416016,
+          "y": 0.0297738537192345,
+          "z": -2.23445439338684
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 71.1222076416016,
+          "y": 0.0297738537192345,
+          "z": -2.23445439338684
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 6.11494,
+          "y": 0.999991,
+          "z": 23.2179
+        },
+        "size": {
+          "x": 6.11493968963623,
+          "y": 0.999991357326508,
+          "z": 23.2178592681885
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "c1c57842-2a9a-4ac7-9fcc-3dddf4bfbe5c",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782679493336973313",
+        "massCenter": {
+          "x": 86.7881011962891,
+          "y": 0.159366145730019,
+          "z": -17.8567714691162
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 86.7881011962891,
+          "y": 0.159366145730019,
+          "z": -17.8567714691162
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 25.0129,
+          "y": 0.999993,
+          "z": 7.64991
+        },
+        "size": {
+          "x": 25.0129451751709,
+          "y": 0.999993085861206,
+          "z": 7.64991188049316
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "9db2a899-fb30-411d-9f4a-1c9fbc96d378",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782680218292305921",
+        "massCenter": {
+          "x": 96.9471435546875,
+          "y": 0.112613841891289,
+          "z": -26.3644218444824
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 96.9471435546875,
+          "y": 0.112613841891289,
+          "z": -26.3644218444824
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 4.85497,
+          "y": 0.999995,
+          "z": 9.37897
+        },
+        "size": {
+          "x": 4.85497236251831,
+          "y": 0.999995410442352,
+          "z": 9.37897109985352
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "3ee6a279-7516-4833-9e0d-367b110b9ce3",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782680487234617345",
+        "massCenter": {
+          "x": 105.804893493652,
+          "y": 0.0759555697441101,
+          "z": -28.8417892456055
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 105.804893493652,
+          "y": 0.0759555697441101,
+          "z": -28.8417892456055
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 12.859,
+          "y": 0.999995,
+          "z": 4.55096
+        },
+        "size": {
+          "x": 12.8589601516724,
+          "y": 0.999994575977325,
+          "z": 4.55096054077148
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "cd999a2b-92f0-4f46-893a-d0171c6f7582",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782681669107171329",
+        "massCenter": {
+          "x": 93.2016448974609,
+          "y": -0.0135066192597151,
+          "z": 6.54081630706787
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 93.2016448974609,
+          "y": -0.0135066192597151,
+          "z": 6.54081630706787
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 38.0436,
+          "y": 0.999989,
+          "z": 5.67589
+        },
+        "size": {
+          "x": 38.0436477661133,
+          "y": 0.999989151954651,
+          "z": 5.67589282989502
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "12946fa3-fdd5-457f-a76d-5ce6391fa4e5",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782682126239219713",
+        "massCenter": {
+          "x": 113.113342285156,
+          "y": 0.113967806100845,
+          "z": -10.906665802002
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 113.113342285156,
+          "y": 0.113967806100845,
+          "z": -10.906665802002
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 5.02795,
+          "y": 0.999989,
+          "z": 40.4055
+        },
+        "size": {
+          "x": 5.02795171737671,
+          "y": 0.999989151954651,
+          "z": 40.4054641723633
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "2f15a3ee-1a00-4b94-93ca-32cc5e38f914",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782682899198951425",
+        "massCenter": {
+          "x": 118.01725769043,
+          "y": 0.125316321849823,
+          "z": -11.3357629776001
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 118.01725769043,
+          "y": 0.125316321849823,
+          "z": -11.3357629776001
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 4.77697,
+          "y": 0.999996,
+          "z": 11.6699
+        },
+        "size": {
+          "x": 4.77697324752808,
+          "y": 0.999996066093445,
+          "z": 11.6699447631836
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "99e5e12e-3703-4e54-8e26-d7d427f30a03",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782685677680459777",
+        "massCenter": {
+          "x": 36.1717834472656,
+          "y": 2.28148698806763,
+          "z": -7.89028263092041
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 36.1717834472656,
+          "y": 2.28148698806763,
+          "z": -7.89028263092041
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999987,
+          "y": 7.82891,
+          "z": 26.4177
+        },
+        "size": {
+          "x": 0.999986529350281,
+          "y": 7.82891225814819,
+          "z": 26.4176559448242
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "247d71b6-169f-4160-9163-178671db1306",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782686104467292161",
+        "massCenter": {
+          "x": 43.1933746337891,
+          "y": 3.35329008102417,
+          "z": 2.24971032142639
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 43.1933746337891,
+          "y": 3.35329008102417,
+          "z": 2.24971032142639
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999984,
+          "y": 5.35989,
+          "z": 32.3015
+        },
+        "size": {
+          "x": 0.9999840259552,
+          "y": 5.35988807678223,
+          "z": 32.3015289306641
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "bc5fd42f-d8b6-4933-8bc8-96ac2aaddf77",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782686442499735553",
+        "massCenter": {
+          "x": 55.3166351318359,
+          "y": 3.31465196609497,
+          "z": -14.4064455032349
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 55.3166351318359,
+          "y": 3.31465196609497,
+          "z": -14.4064455032349
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 25.1766,
+          "y": 5.29193,
+          "z": 0.999974
+        },
+        "size": {
+          "x": 25.1766414642334,
+          "y": 5.29193019866943,
+          "z": 0.999974131584167
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "1a7f28ec-8e61-4fe6-85cf-1be8e3dc0c10",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782686883931127809",
+        "massCenter": {
+          "x": 65.1978378295898,
+          "y": 3.31457853317261,
+          "z": -21.5453987121582
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 65.1978378295898,
+          "y": 3.31457853317261,
+          "z": -21.5453987121582
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 58.0193,
+          "y": 5.29188,
+          "z": 0.999962
+        },
+        "size": {
+          "x": 58.0192565917969,
+          "y": 5.29188203811646,
+          "z": 0.999961972236633
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "278301de-ba59-4984-9914-b363d1559fad",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782687277651312641",
+        "massCenter": {
+          "x": 94.6758193969727,
+          "y": 3.24648284912109,
+          "z": -26.0718994140625
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 94.6758193969727,
+          "y": 3.24648284912109,
+          "z": -26.0718994140625
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.99999,
+          "y": 5.26196,
+          "z": 9.83185
+        },
+        "size": {
+          "x": 0.999989569187164,
+          "y": 5.26196241378784,
+          "z": 9.8318510055542
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "bca3a651-bafc-4203-9e00-b9ed9671e148",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782687685857492993",
+        "massCenter": {
+          "x": 105.387649536133,
+          "y": 3.3231098651886,
+          "z": -30.709285736084
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 105.387649536133,
+          "y": 3.3231098651886,
+          "z": -30.709285736084
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 20.1418,
+          "y": 5.42093,
+          "z": 0.999983
+        },
+        "size": {
+          "x": 20.1418418884277,
+          "y": 5.42093324661255,
+          "z": 0.999982714653015
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "c2854182-aab7-4953-9d12-0d7c9de14207",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782688639745015809",
+        "massCenter": {
+          "x": 115.078582763672,
+          "y": 3.33677434921265,
+          "z": -23.6019954681396
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 115.078582763672,
+          "y": 3.33677434921265,
+          "z": -23.6019954681396
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.99999,
+          "y": 5.44393,
+          "z": 12.9109
+        },
+        "size": {
+          "x": 0.999990046024323,
+          "y": 5.44392728805542,
+          "z": 12.9108867645264
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "5cce0e49-0d33-442e-a89e-29133d5d4bb2",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782689059432742913",
+        "massCenter": {
+          "x": 86.6373596191406,
+          "y": 3.86136722564697,
+          "z": -14.5165271759033
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 86.6373596191406,
+          "y": 3.86136722564697,
+          "z": -14.5165271759033
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 25.5329,
+          "y": 6.40994,
+          "z": 0.999983
+        },
+        "size": {
+          "x": 25.5328750610352,
+          "y": 6.4099383354187,
+          "z": 0.999983429908752
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "fb1a77e7-eb7d-4606-8436-000895dfbb89",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782689506145042433",
+        "massCenter": {
+          "x": 98.9448165893555,
+          "y": 3.8329701423645,
+          "z": -20.7348194122314
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 98.9448165893555,
+          "y": 3.8329701423645,
+          "z": -20.7348194122314
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999991,
+          "y": 6.34694,
+          "z": 11.3859
+        },
+        "size": {
+          "x": 0.999991416931152,
+          "y": 6.34693670272827,
+          "z": 11.3859424591064
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "d3d61476-a634-4d68-b5b3-a5f1491cbaae",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782689896339177473",
+        "massCenter": {
+          "x": 104.531021118164,
+          "y": 3.78283405303955,
+          "z": -26.8889045715332
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 104.531021118164,
+          "y": 3.78283405303955,
+          "z": -26.8889045715332
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 12.2279,
+          "y": 6.42091,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 12.2278881072998,
+          "y": 6.42090940475464,
+          "z": 0.999975204467773
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "26a0bb86-defa-4197-8031-e72bb1224eb3",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782690464827113473",
+        "massCenter": {
+          "x": 110.129417419434,
+          "y": 3.78617548942566,
+          "z": -11.1881971359253
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 110.129417419434,
+          "y": 3.78617548942566,
+          "z": -11.1881971359253
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999983,
+          "y": 6.32987,
+          "z": 31.9165
+        },
+        "size": {
+          "x": 0.999983012676239,
+          "y": 6.32986974716187,
+          "z": 31.9165077209473
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "7f6a6851-ad85-455b-91e5-4ac55bc690b9",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782691336403894273",
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "restitution": 0.1,
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "c401b4ef-0d34-4c4c-949d-b1036f30fea5",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782691384470650881",
+        "massCenter": {
+          "x": 92.4051513671875,
+          "y": 3.75088787078857,
+          "z": 4.34951257705688
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 92.4051513671875,
+          "y": 3.75088787078857,
+          "z": 4.34951257705688
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 36.3937,
+          "y": 6.5149,
+          "z": 0.999976
+        },
+        "size": {
+          "x": 36.393684387207,
+          "y": 6.51490497589111,
+          "z": 0.999976396560669
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "086e2d58-b587-40de-b251-ec613b02068e",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782691762369658881",
+        "massCenter": {
+          "x": 74.1295394897461,
+          "y": 3.70815515518188,
+          "z": -5.00603437423706
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 74.1295394897461,
+          "y": 3.70815515518188,
+          "z": -5.00603437423706
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999991,
+          "y": 6.35593,
+          "z": 20.0478
+        },
+        "size": {
+          "x": 0.999991059303284,
+          "y": 6.35593366622925,
+          "z": 20.0478401184082
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "81cd3362-5b3d-4b47-b992-4444362cc03b",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782692369650876417",
+        "massCenter": {
+          "x": 91.632568359375,
+          "y": 3.81130504608154,
+          "z": 9.77625179290771
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 91.632568359375,
+          "y": 3.81130504608154,
+          "z": 9.77625179290771
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 47.6933,
+          "y": 6.51486,
+          "z": 1.19296
+        },
+        "size": {
+          "x": 47.6933441162109,
+          "y": 6.51485538482666,
+          "z": 1.19296491146088
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "fba5bc66-e7ce-43d6-9630-3e654f234924",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782693546515988481",
+        "massCenter": {
+          "x": 116.127601623535,
+          "y": 3.49200344085693,
+          "z": 2.49602699279785
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 116.127601623535,
+          "y": 3.49200344085693,
+          "z": 2.49602699279785
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999991,
+          "y": 7.69593,
+          "z": 15.8849
+        },
+        "size": {
+          "x": 0.999990880489349,
+          "y": 7.69593191146851,
+          "z": 15.8848896026611
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "718ad4bc-1bd1-416d-8ebf-911bf402d76f",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782694039120674817",
+        "massCenter": {
+          "x": 119.283180236816,
+          "y": 3.561115026474,
+          "z": -5.08066177368164
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 119.283180236816,
+          "y": 3.561115026474,
+          "z": -5.08066177368164
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 5.33394,
+          "y": 7.44493,
+          "z": 0.999975
+        },
+        "size": {
+          "x": 5.33393669128418,
+          "y": 7.44493198394775,
+          "z": 0.999975085258484
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "bce2e746-f40a-4c22-8cf9-a3526c119ed2",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782694440205795329",
+        "massCenter": {
+          "x": 121.11279296875,
+          "y": 3.17772674560547,
+          "z": -11.0797309875488
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 121.11279296875,
+          "y": 3.17772674560547,
+          "z": -11.0797309875488
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 1.41397,
+          "y": 7.55391,
+          "z": 12.2568
+        },
+        "size": {
+          "x": 1.41397392749786,
+          "y": 7.55390977859497,
+          "z": 12.2567977905273
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "73c85d46-95f3-4d39-a581-2429ea6de4ab",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782694945993441281",
+        "massCenter": {
+          "x": 117.567733764648,
+          "y": 4.35155439376831,
+          "z": -16.6046352386475
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 117.567733764648,
+          "y": 4.35155439376831,
+          "z": -16.6046352386475
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 6.07392,
+          "y": 7.44491,
+          "z": 0.999971
+        },
+        "size": {
+          "x": 6.07391977310181,
+          "y": 7.44491243362427,
+          "z": 0.999970614910126
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "18ad6687-c3b1-48b6-bb2c-376d0b21151d",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782695423034638337",
+        "massCenter": {
+          "x": 68.1097106933594,
+          "y": 3.70802927017212,
+          "z": -2.0549533367157
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": 68.1097106933594,
+          "y": 3.70802927017212,
+          "z": -2.0549533367157
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999986,
+          "y": 6.35589,
+          "z": 24.4666
+        },
+        "size": {
+          "x": 0.999985814094543,
+          "y": 6.35588836669922,
+          "z": 24.4665813446045
+        },
+        "useAnchor": true,
+        "useGravity": false
+      },
+      {
+        "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
+        "btsKey": "8e30e31b-eec9-4fb4-8784-28085fbbc43b",
+        "density": 1.3,
+        "friction": 0.35,
+        "id": "8782697493528772609",
+        "massCenter": {
+          "x": -15.8971271514893,
+          "y": 3.60421419143677,
+          "z": 11.4453754425049
+        },
+        "material": {
+          "texture": "part_caodi.tga"
+        },
+        "position": {
+          "x": -15.8971271514893,
+          "y": 3.60421419143677,
+          "z": 11.4453754425049
+        },
+        "restitution": 0.1,
+        "scale": {
+          "x": 0.999992,
+          "y": 5.56494,
+          "z": 12.9459
+        },
+        "size": {
+          "x": 0.999991893768311,
+          "y": 5.56494235992432,
+          "z": 12.9458904266357
+        },
+        "useAnchor": true,
+        "useGravity": false
       }
     ],
     "name": {
@@ -299,9 +1264,8 @@
   },
   "meta": {
     "EXPORT": {
-      "DataSet": [],
-      "setting.json": "c00c79af5675121f3c1c4716fe85d022"
+      "setting.json": "7d5ed4609aa116c5b7473d90c27f8dcb"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

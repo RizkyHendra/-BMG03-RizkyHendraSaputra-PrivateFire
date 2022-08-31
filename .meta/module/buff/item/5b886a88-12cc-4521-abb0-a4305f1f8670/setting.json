@@ -1,10 +1,5 @@
 {
   "data": {
-    "castEffect": {
-      "pos": {
-        "x": 7
-      }
-    },
     "jumpSpeed": 100,
     "moveAcc": 100,
     "moveFactor": 100,
@@ -15,8 +10,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "c3ccd03a35728d68a3155ffea4b41851"
+      "setting.json": "2742dba02db10d1c861896c7235be932"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }

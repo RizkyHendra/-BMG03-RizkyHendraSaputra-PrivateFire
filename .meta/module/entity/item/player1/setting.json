@@ -17,15 +17,6 @@
     "AI_patrol": {
       "patrolMode": "randomPath"
     },
-    "boundingVolume": {
-      "memory": {
-        "Capsule": "1.700000-0.430000"
-      },
-      "radius_c": 0.75,
-      "size": {
-        "x": 1
-      }
-    },
     "boundingVolumeEntityCfg": {
       "memory": {
         "Capsule": "1.700000-0.430000"
@@ -88,9 +79,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f762b0ec512a6fc9144a85113ce197d4",
+      "setting.json": "495ec46fb75ed2e481b2c2b6efe1035c",
       "triggers.bts": "e73378ed143a168585fa021460c1d8ca"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.23"
   }
 }
